@@ -1,0 +1,48 @@
+.navbar{
+    justify-content: space-between;
+}
+span{
+    font-size: 15px;
+    padding-right: 1rem;
+}
+.mat-divider {
+    border-top-color: rgb(26, 1, 83);
+    border-top-width: 2px;
+  }
+  mat-sidenav-container{
+      height:100%
+  }
+  mat-sidenav, mat-sidenav-content{
+      padding:16px;
+  }
+  mat-sidenav{
+      width:250px
+  }
+  .margin_space{
+      margin-left: 260px;
+      font-size: large;
+      line-height: 4;
+  }
+  .cardscol{
+    margin-left: 280px;  
+
+  }
+  .adjust{
+      line-height:2.5;
+  }
+  .adjust2{
+      line-height: 1.6;
+  }
+  .adjust3{
+    line-height: 1.85;
+}
+.manual{
+    margin-left: 173px; 
+}
+mat-card-content{
+    color:grey
+}
+.adjust4{
+    width:100%;
+    height:auto;
+}
