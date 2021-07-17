@@ -1,3 +1,3 @@
-# SoC_Week2
+# SoC_Final_Submission
 
 Copy of the webpage : https://material.angular.io/components/categories using Angular
